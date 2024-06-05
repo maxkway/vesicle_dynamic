@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Nonlinear Vesicles Dynamics
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Maxim
+    family-names: Shishkin
+    orcid: 'https://orcid.org/0000-0002-1243-5285'
+    affiliation: >-
+      Landau Institute for Theoretical Physics of the RAS,
+      142432 Chernogolovka, Russia
+    email: max.shishckin2011@gmail.com
